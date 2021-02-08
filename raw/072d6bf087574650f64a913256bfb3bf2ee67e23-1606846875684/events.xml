@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recording meeting_id="072d6bf087574650f64a913256bfb3bf2ee67e23-1606846875684" bbb_version="2.1.0">
+  <meeting id="072d6bf087574650f64a913256bfb3bf2ee67e23-1606846875684" externalId="HsoPamO" name="testing2" breakout="false"/>
+  <metadata isBreakout="false" meetingId="HsoPamO" meetingName="testing2"/>
+  <event timestamp="1151125536" module="PRESENTATION" eventname="CreatePresentationPodEvent">
+    <currentPresenter/>
+    <timestampUTC>1606846875715</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-12-01T18:21:15.715Z</date>
+  </event>
+  <event timestamp="1151130879" module="PRESENTATION" eventname="ConversionCompletedEvent">
+    <originalFilename>default.pdf</originalFilename>
+    <timestampUTC>1606846881059</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-12-01T18:21:21.059Z</date>
+  </event>
+  <event timestamp="1151130881" module="PRESENTATION" eventname="SharePresentationEvent">
+    <timestampUTC>1606846881061</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <share>true</share>
+    <date>2020-12-01T18:21:21.061Z</date>
+  </event>
+  <event timestamp="1151130882" module="PRESENTATION" eventname="SetPresentationDownloadable">
+    <timestampUTC>1606846881061</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-12-01T18:21:21.061Z</date>
+    <downloadable>false</downloadable>
+  </event>
+  <event timestamp="1151272385" module="PARTICIPANT" eventname="ParticipantJoinEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606847022564</timestampUTC>
+    <role>MODERATOR</role>
+    <date>2020-12-01T18:23:42.564Z</date>
+    <externalUserId>w_czf7vt8m6oid</externalUserId>
+    <userId>w_czf7vt8m6oid</userId>
+  </event>
+  <event timestamp="1151272387" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606847022566</timestampUTC>
+    <userid>w_czf7vt8m6oid</userid>
+    <assignedBy>w_czf7vt8m6oid</assignedBy>
+    <date>2020-12-01T18:23:42.566Z</date>
+  </event>
+  <event timestamp="1151272393" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606847022572</timestampUTC>
+    <userid>w_czf7vt8m6oid</userid>
+    <assignedBy>w_czf7vt8m6oid</assignedBy>
+    <date>2020-12-01T18:23:42.572Z</date>
+  </event>
+  <event timestamp="1151272394" module="PRESENTATION" eventname="SetPresenterInPodEvent">
+    <timestampUTC>1606847022573</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-12-01T18:23:42.573Z</date>
+    <nextPresenterId>w_czf7vt8m6oid</nextPresenterId>
+  </event>
+  <event timestamp="1151272401" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606847022580</timestampUTC>
+    <userid>w_czf7vt8m6oid</userid>
+    <assignedBy>w_czf7vt8m6oid</assignedBy>
+    <date>2020-12-01T18:23:42.580Z</date>
+  </event>
+  <event timestamp="1151272402" module="PRESENTATION" eventname="SetPresenterInPodEvent">
+    <timestampUTC>1606847022581</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-12-01T18:23:42.581Z</date>
+    <nextPresenterId>w_czf7vt8m6oid</nextPresenterId>
+  </event>
+  <event timestamp="1151274047" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847024226</timestampUTC>
+    <xOffset>72.26608912150066</xOffset>
+    <date>2020-12-01T18:23:44.226Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>44.77552625868056</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151274211" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847024390</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-12-01T18:23:44.390Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151276069" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847026248</timestampUTC>
+    <xOffset>50.096724828084305</xOffset>
+    <date>2020-12-01T18:23:46.248Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>29.543652004665798</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151276113" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847026292</timestampUTC>
+    <xOffset>57.35863367716472</xOffset>
+    <date>2020-12-01T18:23:46.292Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>22.55952340585214</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151276160" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847026339</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-12-01T18:23:46.339Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151278019" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847028198</timestampUTC>
+    <xOffset>95.2157719930013</xOffset>
+    <date>2020-12-01T18:23:48.198Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>0.1256613709308483</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151278059" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847028238</timestampUTC>
+    <xOffset>95.2157719930013</xOffset>
+    <date>2020-12-01T18:23:48.238Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>0.3373015809942175</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151278616" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847028795</timestampUTC>
+    <xOffset>95.0967280069987</xOffset>
+    <date>2020-12-01T18:23:48.795Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>0.3373015809942175</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151278657" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847028836</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-12-01T18:23:48.836Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151281119" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847031298</timestampUTC>
+    <xOffset>91.04910532633464</xOffset>
+    <date>2020-12-01T18:23:51.298Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>28.9087309660735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151281161" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606847031340</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-12-01T18:23:51.340Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_czf7vt8m6oid</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606846875694</presentation>
+  </event>
+  <event timestamp="1151282714" module="PARTICIPANT" eventname="EndAndKickAllEvent">
+    <timestampUTC>1606847032893</timestampUTC>
+    <reason>ENDED_AFTER_USER_LOGGED_OUT</reason>
+    <date>2020-12-01T18:23:52.893Z</date>
+  </event>
+</recording>

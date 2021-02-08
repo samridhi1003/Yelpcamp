@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recording meeting_id="04334324d6d06737fb37e5838ed77369cfbc1102-1606202877688" bbb_version="2.1.0">
+  <meeting id="04334324d6d06737fb37e5838ed77369cfbc1102-1606202877688" externalId="iGbK5jj" name="testing" breakout="false"/>
+  <metadata isBreakout="false" meetingId="iGbK5jj" meetingName="testing"/>
+  <event timestamp="507127569" module="PRESENTATION" eventname="CreatePresentationPodEvent">
+    <currentPresenter/>
+    <timestampUTC>1606202877749</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-24T07:27:57.749Z</date>
+  </event>
+  <event timestamp="507132901" module="PRESENTATION" eventname="ConversionCompletedEvent">
+    <originalFilename>default.pdf</originalFilename>
+    <timestampUTC>1606202883080</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-24T07:28:03.080Z</date>
+  </event>
+  <event timestamp="507132904" module="PRESENTATION" eventname="SharePresentationEvent">
+    <timestampUTC>1606202883083</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <share>true</share>
+    <date>2020-11-24T07:28:03.083Z</date>
+  </event>
+  <event timestamp="507132905" module="PRESENTATION" eventname="SetPresentationDownloadable">
+    <timestampUTC>1606202883084</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-24T07:28:03.084Z</date>
+    <downloadable>false</downloadable>
+  </event>
+  <event timestamp="507139502" module="PARTICIPANT" eventname="ParticipantJoinEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606202889681</timestampUTC>
+    <role>MODERATOR</role>
+    <date>2020-11-24T07:28:09.681Z</date>
+    <externalUserId>w_wvv3xzc6tkim</externalUserId>
+    <userId>w_wvv3xzc6tkim</userId>
+  </event>
+  <event timestamp="507139503" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606202889682</timestampUTC>
+    <userid>w_wvv3xzc6tkim</userid>
+    <assignedBy>w_wvv3xzc6tkim</assignedBy>
+    <date>2020-11-24T07:28:09.682Z</date>
+  </event>
+  <event timestamp="507139509" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606202889688</timestampUTC>
+    <userid>w_wvv3xzc6tkim</userid>
+    <assignedBy>w_wvv3xzc6tkim</assignedBy>
+    <date>2020-11-24T07:28:09.688Z</date>
+  </event>
+  <event timestamp="507139511" module="PRESENTATION" eventname="SetPresenterInPodEvent">
+    <timestampUTC>1606202889690</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-24T07:28:09.690Z</date>
+    <nextPresenterId>w_wvv3xzc6tkim</nextPresenterId>
+  </event>
+  <event timestamp="507139522" module="PARTICIPANT" eventname="AssignPresenterEvent">
+    <name>Atharva</name>
+    <timestampUTC>1606202889702</timestampUTC>
+    <userid>w_wvv3xzc6tkim</userid>
+    <assignedBy>w_wvv3xzc6tkim</assignedBy>
+    <date>2020-11-24T07:28:09.702Z</date>
+  </event>
+  <event timestamp="507139523" module="PRESENTATION" eventname="SetPresenterInPodEvent">
+    <timestampUTC>1606202889702</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-24T07:28:09.702Z</date>
+    <nextPresenterId>w_wvv3xzc6tkim</nextPresenterId>
+  </event>
+  <event timestamp="507158582" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202908761</timestampUTC>
+    <xOffset>49.85863049825033</xOffset>
+    <date>2020-11-24T07:28:28.761Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>23.194444444444446</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507158623" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202908802</timestampUTC>
+    <xOffset>46.88244183858236</xOffset>
+    <date>2020-11-24T07:28:28.802Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>24.2526442916305</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507158674" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202908853</timestampUTC>
+    <xOffset>24.26339308420817</xOffset>
+    <date>2020-11-24T07:28:28.853Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>28.485449331778067</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507158716" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202908895</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:28.895Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507162647" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202912826</timestampUTC>
+    <xOffset>7.596726417541504</xOffset>
+    <date>2020-11-24T07:28:32.826Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>5.6283067773889615</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507162688" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202912868</timestampUTC>
+    <xOffset>11.76339308420817</xOffset>
+    <date>2020-11-24T07:28:32.868Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>28.062170523184314</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507162737" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202912917</timestampUTC>
+    <xOffset>16.64434591929118</xOffset>
+    <date>2020-11-24T07:28:32.917Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.01454784252026</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507162790" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202912969</timestampUTC>
+    <xOffset>17.120536168416344</xOffset>
+    <date>2020-11-24T07:28:32.969Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>51.13095318829571</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163065" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913245</timestampUTC>
+    <xOffset>17.239583333333332</xOffset>
+    <date>2020-11-24T07:28:33.245Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>51.13095318829571</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163108" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913287</timestampUTC>
+    <xOffset>19.739583333333332</xOffset>
+    <date>2020-11-24T07:28:33.287Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>50.49602932400173</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163160" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913340</timestampUTC>
+    <xOffset>29.025297164916992</xOffset>
+    <date>2020-11-24T07:28:33.340Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.16799022533275</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163191" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913371</timestampUTC>
+    <xOffset>36.88244183858236</xOffset>
+    <date>2020-11-24T07:28:33.371Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>47.95635082103588</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163235" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913414</timestampUTC>
+    <xOffset>40.45386950174967</xOffset>
+    <date>2020-11-24T07:28:33.414Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.379629629629626</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163280" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913459</timestampUTC>
+    <xOffset>45.09672482808431</xOffset>
+    <date>2020-11-24T07:28:33.459Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.22619289822049</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507163322" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202913501</timestampUTC>
+    <xOffset>47.001489003499344</xOffset>
+    <date>2020-11-24T07:28:33.501Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.22619289822049</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165500" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915679</timestampUTC>
+    <xOffset>47.596724828084305</xOffset>
+    <date>2020-11-24T07:28:35.679Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.22619289822049</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165546" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915726</timestampUTC>
+    <xOffset>49.02529716491699</xOffset>
+    <date>2020-11-24T07:28:35.726Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.43783230251736</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165593" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915772</timestampUTC>
+    <xOffset>57.35863367716472</xOffset>
+    <date>2020-11-24T07:28:35.772Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>50.70767437970197</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165636" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915816</timestampUTC>
+    <xOffset>60.81101099650065</xOffset>
+    <date>2020-11-24T07:28:35.816Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>52.189155861183444</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165676" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915855</timestampUTC>
+    <xOffset>64.02530034383138</xOffset>
+    <date>2020-11-24T07:28:35.855Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>53.24735288266782</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165726" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915905</timestampUTC>
+    <xOffset>65.2157719930013</xOffset>
+    <date>2020-11-24T07:28:35.905Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>53.24735288266782</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165761" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915941</timestampUTC>
+    <xOffset>66.52530034383139</xOffset>
+    <date>2020-11-24T07:28:35.941Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>53.24735288266782</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165804" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202915983</timestampUTC>
+    <xOffset>67.35863367716472</xOffset>
+    <date>2020-11-24T07:28:35.983Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>53.24735288266782</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165845" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916024</timestampUTC>
+    <xOffset>70.33482233683269</xOffset>
+    <date>2020-11-24T07:28:36.024Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>52.189155861183444</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165885" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916064</timestampUTC>
+    <xOffset>75.45386632283528</xOffset>
+    <date>2020-11-24T07:28:36.064Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.861111111111114</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165927" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916106</timestampUTC>
+    <xOffset>78.90625</xOffset>
+    <date>2020-11-24T07:28:36.106Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.80290843822338</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507165970" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916149</timestampUTC>
+    <xOffset>79.85863367716472</xOffset>
+    <date>2020-11-24T07:28:36.149Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.80290843822338</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166047" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916226</timestampUTC>
+    <xOffset>80.33482233683267</xOffset>
+    <date>2020-11-24T07:28:36.226Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.80290843822338</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166050" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916230</timestampUTC>
+    <xOffset>80.45386632283528</xOffset>
+    <date>2020-11-24T07:28:36.230Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.80290843822338</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166093" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916272</timestampUTC>
+    <xOffset>80.45386632283528</xOffset>
+    <date>2020-11-24T07:28:36.272Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>49.43783230251736</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166137" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916316</timestampUTC>
+    <xOffset>79.50148900349934</xOffset>
+    <date>2020-11-24T07:28:36.316Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>53.24735288266782</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166176" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916355</timestampUTC>
+    <xOffset>77.47767766316733</xOffset>
+    <date>2020-11-24T07:28:36.355Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>68.27380710177951</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166218" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916397</timestampUTC>
+    <xOffset>77.12053298950195</xOffset>
+    <date>2020-11-24T07:28:36.397Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>77.5859804506655</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166259" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916438</timestampUTC>
+    <xOffset>77.12053298950195</xOffset>
+    <date>2020-11-24T07:28:36.438Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>83.30026697229455</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166299" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916478</timestampUTC>
+    <xOffset>77.12053298950195</xOffset>
+    <date>2020-11-24T07:28:36.478Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>83.72354578088832</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166668" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916847</timestampUTC>
+    <xOffset>76.88243865966797</xOffset>
+    <date>2020-11-24T07:28:36.847Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>83.72354578088832</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166707" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916886</timestampUTC>
+    <xOffset>76.04910532633463</xOffset>
+    <date>2020-11-24T07:28:36.886Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>83.72354578088832</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166754" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916933</timestampUTC>
+    <xOffset>67.35863367716472</xOffset>
+    <date>2020-11-24T07:28:36.933Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166792" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202916972</timestampUTC>
+    <xOffset>57.7157719930013</xOffset>
+    <date>2020-11-24T07:28:36.972Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.49074074074073</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166835" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917014</timestampUTC>
+    <xOffset>55.096728006998696</xOffset>
+    <date>2020-11-24T07:28:37.014Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.06746193214698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166877" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917056</timestampUTC>
+    <xOffset>52.83482233683269</xOffset>
+    <date>2020-11-24T07:28:37.056Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.06746193214698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507166919" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917098</timestampUTC>
+    <xOffset>52.35863049825033</xOffset>
+    <date>2020-11-24T07:28:37.098Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.06746193214698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167256" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917436</timestampUTC>
+    <xOffset>52.23958333333333</xOffset>
+    <date>2020-11-24T07:28:37.436Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.06746193214698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167291" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917471</timestampUTC>
+    <xOffset>50.81101099650065</xOffset>
+    <date>2020-11-24T07:28:37.471Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.49074074074073</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167338" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917517</timestampUTC>
+    <xOffset>39.38244183858235</xOffset>
+    <date>2020-11-24T07:28:37.517Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>80.76058281792535</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167384" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917564</timestampUTC>
+    <xOffset>35.096724828084305</xOffset>
+    <date>2020-11-24T07:28:37.564Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.18386162651909</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167434" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917613</timestampUTC>
+    <xOffset>34.739583333333336</xOffset>
+    <date>2020-11-24T07:28:37.613Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.18386162651909</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167460" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917639</timestampUTC>
+    <xOffset>34.62053616841634</xOffset>
+    <date>2020-11-24T07:28:37.639Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167501" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917680</timestampUTC>
+    <xOffset>34.38244183858236</xOffset>
+    <date>2020-11-24T07:28:37.680Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167561" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917741</timestampUTC>
+    <xOffset>34.26339149475098</xOffset>
+    <date>2020-11-24T07:28:37.741Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167613" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917792</timestampUTC>
+    <xOffset>33.90625</xOffset>
+    <date>2020-11-24T07:28:37.792Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167670" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917849</timestampUTC>
+    <xOffset>33.668155670166016</xOffset>
+    <date>2020-11-24T07:28:37.849Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.39550103081598</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167742" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917921</timestampUTC>
+    <xOffset>33.43005816141764</xOffset>
+    <date>2020-11-24T07:28:37.921Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.60714043511284</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167784" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202917963</timestampUTC>
+    <xOffset>32.59672482808431</xOffset>
+    <date>2020-11-24T07:28:37.963Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>81.81878549081308</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167829" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918008</timestampUTC>
+    <xOffset>24.14434591929118</xOffset>
+    <date>2020-11-24T07:28:38.008Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>84.35846399377893</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167869" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918048</timestampUTC>
+    <xOffset>21.287202835083008</xOffset>
+    <date>2020-11-24T07:28:38.048Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>84.99338785807292</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167916" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918096</timestampUTC>
+    <xOffset>19.14434591929118</xOffset>
+    <date>2020-11-24T07:28:38.096Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>85.2050272623698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167953" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918132</timestampUTC>
+    <xOffset>19.025297164916992</xOffset>
+    <date>2020-11-24T07:28:38.132Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>85.2050272623698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507167999" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918178</timestampUTC>
+    <xOffset>18.787202835083008</xOffset>
+    <date>2020-11-24T07:28:38.178Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>85.2050272623698</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168079" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918258</timestampUTC>
+    <xOffset>18.787202835083008</xOffset>
+    <date>2020-11-24T07:28:38.258Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>84.99338785807292</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168124" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918303</timestampUTC>
+    <xOffset>18.54910691579183</xOffset>
+    <date>2020-11-24T07:28:38.303Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>78.432538067853</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168176" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918355</timestampUTC>
+    <xOffset>17.239583333333332</xOffset>
+    <date>2020-11-24T07:28:38.355Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>58.75</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168216" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918395</timestampUTC>
+    <xOffset>16.763393084208168</xOffset>
+    <date>2020-11-24T07:28:38.395Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>54.51719495985243</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168260" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918439</timestampUTC>
+    <xOffset>16.64434591929118</xOffset>
+    <date>2020-11-24T07:28:38.439Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>52.400795265480326</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168696" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918875</timestampUTC>
+    <xOffset>17.001487414042156</xOffset>
+    <date>2020-11-24T07:28:38.875Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>51.97751080548322</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168737" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918916</timestampUTC>
+    <xOffset>24.62053616841634</xOffset>
+    <date>2020-11-24T07:28:38.916Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>46.68650874385128</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168785" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202918964</timestampUTC>
+    <xOffset>52.83482233683269</xOffset>
+    <date>2020-11-24T07:28:38.964Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>34.411375257703995</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168821" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202919000</timestampUTC>
+    <xOffset>58.66815567016601</xOffset>
+    <date>2020-11-24T07:28:39.000Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>32.294972737630204</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507168870" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202919049</timestampUTC>
+    <xOffset>59.025300343831375</xOffset>
+    <date>2020-11-24T07:28:39.049Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>32.294972737630204</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507169054" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202919233</timestampUTC>
+    <xOffset>59.025300343831375</xOffset>
+    <date>2020-11-24T07:28:39.233Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>32.083333333333336</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507169095" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202919274</timestampUTC>
+    <xOffset>57.7157719930013</xOffset>
+    <date>2020-11-24T07:28:39.274Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>14.305555555555555</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507169139" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202919318</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:39.318Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507173506" module="PARTICIPANT" eventname="RecordStatusEvent">
+    <timestampUTC>1606202923686</timestampUTC>
+    <date>2020-11-24T07:28:43.686Z</date>
+    <status>true</status>
+    <userId>w_wvv3xzc6tkim</userId>
+  </event>
+  <event timestamp="507174146" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924325</timestampUTC>
+    <xOffset>15.334820747375488</xOffset>
+    <date>2020-11-24T07:28:44.325Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>60.23148148148149</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174188" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924367</timestampUTC>
+    <xOffset>17.239583333333332</xOffset>
+    <date>2020-11-24T07:28:44.367Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>56.21031584563079</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174228" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924407</timestampUTC>
+    <xOffset>28.787202835083008</xOffset>
+    <date>2020-11-24T07:28:44.407Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>35.892856739185476</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174266" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924445</timestampUTC>
+    <xOffset>39.85863049825033</xOffset>
+    <date>2020-11-24T07:28:44.445Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>21.501322145815248</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174309" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924488</timestampUTC>
+    <xOffset>49.26339149475098</xOffset>
+    <date>2020-11-24T07:28:44.488Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>10.707672260425708</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174352" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924531</timestampUTC>
+    <xOffset>50.93005816141765</xOffset>
+    <date>2020-11-24T07:28:44.531Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>9.437830889666522</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174789" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202924968</timestampUTC>
+    <xOffset>51.168155670166016</xOffset>
+    <date>2020-11-24T07:28:44.968Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>9.437830889666522</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174831" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925010</timestampUTC>
+    <xOffset>54.62053298950196</xOffset>
+    <date>2020-11-24T07:28:45.010Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>10.919312371148003</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174870" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925049</timestampUTC>
+    <xOffset>59.739583333333336</xOffset>
+    <date>2020-11-24T07:28:45.049Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>15.787037037037038</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507174923" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925102</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:45.102Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507175513" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925693</timestampUTC>
+    <xOffset>77.35863367716472</xOffset>
+    <date>2020-11-24T07:28:45.693Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>32.083333333333336</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507175551" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925730</timestampUTC>
+    <xOffset>80.57291666666667</xOffset>
+    <date>2020-11-24T07:28:45.730Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>33.988096449110245</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507175594" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202925773</timestampUTC>
+    <xOffset>83.07291666666666</xOffset>
+    <date>2020-11-24T07:28:45.773Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>36.739417182074654</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177347" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927526</timestampUTC>
+    <xOffset>83.07291666666666</xOffset>
+    <date>2020-11-24T07:28:47.526Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>36.52777777777778</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177389" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927568</timestampUTC>
+    <xOffset>82.23958333333333</xOffset>
+    <date>2020-11-24T07:28:47.568Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>33.353175410517935</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177429" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927608</timestampUTC>
+    <xOffset>79.73958333333333</xOffset>
+    <date>2020-11-24T07:28:47.608Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>23.617724665889035</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177475" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927654</timestampUTC>
+    <xOffset>78.07291666666667</xOffset>
+    <date>2020-11-24T07:28:47.654Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>19.808201260036892</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177514" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927694</timestampUTC>
+    <xOffset>75.2157719930013</xOffset>
+    <date>2020-11-24T07:28:47.694Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>15.99867785418475</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177553" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927732</timestampUTC>
+    <xOffset>72.83482233683269</xOffset>
+    <date>2020-11-24T07:28:47.732Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>13.882275334110966</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177593" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202927772</timestampUTC>
+    <xOffset>71.16815567016602</xOffset>
+    <date>2020-11-24T07:28:47.772Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>12.400793852629485</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507177881" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202928060</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:48.060Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179192" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929371</timestampUTC>
+    <xOffset>61.168155670166016</xOffset>
+    <date>2020-11-24T07:28:49.371Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>0.9722222222222222</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179235" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929414</timestampUTC>
+    <xOffset>64.38243865966797</xOffset>
+    <date>2020-11-24T07:28:49.414Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>7.95634940818504</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179287" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929466</timestampUTC>
+    <xOffset>67.23958333333333</xOffset>
+    <date>2020-11-24T07:28:49.466Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>11.554232703314888</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179579" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929758</timestampUTC>
+    <xOffset>67.00148900349934</xOffset>
+    <date>2020-11-24T07:28:49.758Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>11.342592592592593</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179622" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929802</timestampUTC>
+    <xOffset>65.2157719930013</xOffset>
+    <date>2020-11-24T07:28:49.802Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>8.37962962962963</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507179691" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202929871</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:49.871Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182239" module="PARTICIPANT" eventname="RecordStatusEvent">
+    <timestampUTC>1606202932418</timestampUTC>
+    <date>2020-11-24T07:28:52.418Z</date>
+    <status>false</status>
+    <userId>w_wvv3xzc6tkim</userId>
+  </event>
+  <event timestamp="507182756" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202932935</timestampUTC>
+    <xOffset>13.90625</xOffset>
+    <date>2020-11-24T07:28:52.935Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>64.25264711733217</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182804" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202932983</timestampUTC>
+    <xOffset>25.334820747375485</xOffset>
+    <date>2020-11-24T07:28:52.983Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>48.16799022533275</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182845" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933025</timestampUTC>
+    <xOffset>40.572916666666664</xOffset>
+    <date>2020-11-24T07:28:53.025Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>29.96693081325955</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182885" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933064</timestampUTC>
+    <xOffset>49.26339149475098</xOffset>
+    <date>2020-11-24T07:28:53.064Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>21.712962962962962</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182925" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933104</timestampUTC>
+    <xOffset>57.7157719930013</xOffset>
+    <date>2020-11-24T07:28:53.104Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>16.84523829707393</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507182966" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933146</timestampUTC>
+    <xOffset>59.025300343831375</xOffset>
+    <date>2020-11-24T07:28:53.146Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>16.633597479926216</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507183008" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933187</timestampUTC>
+    <xOffset>59.97767766316732</xOffset>
+    <date>2020-11-24T07:28:53.187Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>16.633597479926216</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507183244" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933423</timestampUTC>
+    <xOffset>60.0967280069987</xOffset>
+    <date>2020-11-24T07:28:53.423Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>16.42195807562934</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507183286" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933465</timestampUTC>
+    <xOffset>62.47767766316732</xOffset>
+    <date>2020-11-24T07:28:53.465Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>13.458995112666377</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507183344" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202933523</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:53.523Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507184441" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202934620</timestampUTC>
+    <xOffset>81.88243865966797</xOffset>
+    <date>2020-11-24T07:28:54.620Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>79.49074074074073</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507184494" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202934673</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:54.673Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188163" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938343</timestampUTC>
+    <xOffset>18.072916666666668</xOffset>
+    <date>2020-11-24T07:28:58.343Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>98.32672119140625</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188208" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938387</timestampUTC>
+    <xOffset>45.21577517191569</xOffset>
+    <date>2020-11-24T07:28:58.387Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>69.12037037037037</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188245" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938425</timestampUTC>
+    <xOffset>89.73958333333333</xOffset>
+    <date>2020-11-24T07:28:58.425Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>22.98280362729673</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188288" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938467</timestampUTC>
+    <xOffset>98.78719965616862</xOffset>
+    <date>2020-11-24T07:28:58.467Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>14.51719637270327</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188344" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938523</timestampUTC>
+    <xOffset>99.8586336771647</xOffset>
+    <date>2020-11-24T07:28:58.523Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>13.247354295518662</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188426" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938605</timestampUTC>
+    <xOffset>99.73958333333334</xOffset>
+    <date>2020-11-24T07:28:58.605Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>13.247354295518662</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188476" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938656</timestampUTC>
+    <xOffset>99.62053298950195</xOffset>
+    <date>2020-11-24T07:28:58.656Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>13.035714891221788</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188517" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938696</timestampUTC>
+    <xOffset>99.02530034383138</xOffset>
+    <date>2020-11-24T07:28:58.696Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>11.130952481870297</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188558" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938738</timestampUTC>
+    <xOffset>96.40625</xOffset>
+    <date>2020-11-24T07:28:58.738Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>6.263227815981265</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188607" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938786</timestampUTC>
+    <xOffset>94.50148900349934</xOffset>
+    <date>2020-11-24T07:28:58.786Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>3.300264499805592</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188649" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202938829</timestampUTC>
+    <xOffset>93.07291666666667</xOffset>
+    <date>2020-11-24T07:28:58.829Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>0.1256613709308483</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507188889" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202939068</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:28:59.068Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507192650" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202942829</timestampUTC>
+    <xOffset>90.33482233683269</xOffset>
+    <date>2020-11-24T07:29:02.829Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>31.44841229474103</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507192694" module="WHITEBOARD" eventname="WhiteboardCursorMoveEvent">
+    <timestampUTC>1606202942873</timestampUTC>
+    <xOffset>-62.760416666666664</xOffset>
+    <date>2020-11-24T07:29:02.873Z</date>
+    <whiteboardId>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735/1</whiteboardId>
+    <pageNumber>0</pageNumber>
+    <userId>w_wvv3xzc6tkim</userId>
+    <yOffset>-17.652115998444735</yOffset>
+    <presentation>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606202877735</presentation>
+  </event>
+  <event timestamp="507194229" module="PARTICIPANT" eventname="EndAndKickAllEvent">
+    <timestampUTC>1606202944408</timestampUTC>
+    <reason>ENDED_AFTER_USER_LOGGED_OUT</reason>
+    <date>2020-11-24T07:29:04.408Z</date>
+  </event>
+</recording>

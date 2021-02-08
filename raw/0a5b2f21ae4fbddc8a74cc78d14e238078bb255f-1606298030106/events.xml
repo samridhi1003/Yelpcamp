@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recording meeting_id="0a5b2f21ae4fbddc8a74cc78d14e238078bb255f-1606298030106" bbb_version="2.1.0">
+  <meeting id="0a5b2f21ae4fbddc8a74cc78d14e238078bb255f-1606298030106" externalId="EYOiPjE" name="Lokavidya" breakout="false"/>
+  <metadata isBreakout="false" meetingId="EYOiPjE" meetingName="Lokavidya"/>
+  <event timestamp="602279996" module="PRESENTATION" eventname="CreatePresentationPodEvent">
+    <currentPresenter/>
+    <timestampUTC>1606298030175</timestampUTC>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-25T09:53:50.175Z</date>
+  </event>
+  <event timestamp="602285315" module="PRESENTATION" eventname="ConversionCompletedEvent">
+    <originalFilename>default.pdf</originalFilename>
+    <timestampUTC>1606298035495</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606298030168</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-25T09:53:55.495Z</date>
+  </event>
+  <event timestamp="602285318" module="PRESENTATION" eventname="SharePresentationEvent">
+    <timestampUTC>1606298035497</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606298030168</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <share>true</share>
+    <date>2020-11-25T09:53:55.497Z</date>
+  </event>
+  <event timestamp="602285318" module="PRESENTATION" eventname="SetPresentationDownloadable">
+    <timestampUTC>1606298035497</timestampUTC>
+    <presentationName>d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1606298030168</presentationName>
+    <podId>DEFAULT_PRESENTATION_POD</podId>
+    <date>2020-11-25T09:53:55.497Z</date>
+    <downloadable>false</downloadable>
+  </event>
+  <event timestamp="602585008" module="PARTICIPANT" eventname="EndAndKickAllEvent">
+    <timestampUTC>1606298335187</timestampUTC>
+    <reason>ENDED_WHEN_NOT_JOINED</reason>
+    <date>2020-11-25T09:58:55.187Z</date>
+  </event>
+</recording>
